@@ -1,0 +1,14 @@
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\bin\Debug\net9.0\InClass.exe
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\bin\Debug\net9.0\InClass.deps.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\bin\Debug\net9.0\InClass.runtimeconfig.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\bin\Debug\net9.0\InClass.dll
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\bin\Debug\net9.0\InClass.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\obj\Debug\net9.0\InClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\obj\Debug\net9.0\InClass.AssemblyInfoInputs.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\obj\Debug\net9.0\InClass.AssemblyInfo.cs
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\obj\Debug\net9.0\InClass.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\obj\Debug\net9.0\InClass.dll
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\obj\Debug\net9.0\refint\InClass.dll
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\obj\Debug\net9.0\InClass.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\obj\Debug\net9.0\InClass.genruntimeconfig.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\InClass\obj\Debug\net9.0\ref\InClass.dll

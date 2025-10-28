@@ -1,0 +1,14 @@
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\bin\Debug\net9.0\StudentGrades.exe
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\bin\Debug\net9.0\StudentGrades.deps.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\bin\Debug\net9.0\StudentGrades.runtimeconfig.json
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\bin\Debug\net9.0\StudentGrades.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\bin\Debug\net9.0\StudentGrades.pdb
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\obj\Debug\net9.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\obj\Debug\net9.0\StudentGrades.AssemblyInfoInputs.cache
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\obj\Debug\net9.0\StudentGrades.AssemblyInfo.cs
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\obj\Debug\net9.0\StudentGrades.csproj.CoreCompileInputs.cache
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\obj\Debug\net9.0\StudentGrades.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\obj\Debug\net9.0\refint\StudentGrades.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\obj\Debug\net9.0\StudentGrades.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\obj\Debug\net9.0\StudentGrades.genruntimeconfig.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week1\StudentGrades\obj\Debug\net9.0\ref\StudentGrades.dll

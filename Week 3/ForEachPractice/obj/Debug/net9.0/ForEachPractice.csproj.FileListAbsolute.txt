@@ -1,0 +1,15 @@
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\bin\Debug\net9.0\ForEachPractice.exe
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\bin\Debug\net9.0\ForEachPractice.deps.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\bin\Debug\net9.0\ForEachPractice.runtimeconfig.json
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\bin\Debug\net9.0\ForEachPractice.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\bin\Debug\net9.0\ForEachPractice.pdb
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\ForEachPractice.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\ForEachPractice.AssemblyInfoInputs.cache
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\ForEachPractice.AssemblyInfo.cs
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\ForEachPractice.csproj.CoreCompileInputs.cache
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\ForEachPractice.sourcelink.json
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\ForEachPractice.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\refint\ForEachPractice.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\ForEachPractice.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\ForEachPractice.genruntimeconfig.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 3\ForEachPractice\obj\Debug\net9.0\ref\ForEachPractice.dll

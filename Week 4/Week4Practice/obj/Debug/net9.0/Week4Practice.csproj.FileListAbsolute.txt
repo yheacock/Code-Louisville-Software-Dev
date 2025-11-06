@@ -1,0 +1,15 @@
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\bin\Debug\net9.0\Week4Practice.exe
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\bin\Debug\net9.0\Week4Practice.deps.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\bin\Debug\net9.0\Week4Practice.runtimeconfig.json
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\bin\Debug\net9.0\Week4Practice.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\bin\Debug\net9.0\Week4Practice.pdb
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\Week4Practice.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\Week4Practice.AssemblyInfoInputs.cache
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\Week4Practice.AssemblyInfo.cs
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\Week4Practice.csproj.CoreCompileInputs.cache
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\Week4Practice.sourcelink.json
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\Week4Practice.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\refint\Week4Practice.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\Week4Practice.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\Week4Practice.genruntimeconfig.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 4\Week4Practice\obj\Debug\net9.0\ref\Week4Practice.dll

@@ -1,0 +1,15 @@
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\bin\Debug\net9.0\Week 6.exe
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\bin\Debug\net9.0\Week 6.deps.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\bin\Debug\net9.0\Week 6.runtimeconfig.json
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\bin\Debug\net9.0\Week 6.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\bin\Debug\net9.0\Week 6.pdb
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\Week 6.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\Week 6.AssemblyInfoInputs.cache
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\Week 6.AssemblyInfo.cs
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\Week 6.csproj.CoreCompileInputs.cache
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\Week 6.sourcelink.json
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\Week 6.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\refint\Week 6.dll
+c:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\Week 6.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\Week 6.genruntimeconfig.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 6\obj\Debug\net9.0\ref\Week 6.dll

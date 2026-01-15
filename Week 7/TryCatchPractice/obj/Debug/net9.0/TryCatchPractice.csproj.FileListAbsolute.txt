@@ -1,0 +1,15 @@
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\bin\Debug\net9.0\TryCatchPractice.exe
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\bin\Debug\net9.0\TryCatchPractice.deps.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\bin\Debug\net9.0\TryCatchPractice.runtimeconfig.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\bin\Debug\net9.0\TryCatchPractice.dll
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\bin\Debug\net9.0\TryCatchPractice.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\TryCatchPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\TryCatchPractice.AssemblyInfoInputs.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\TryCatchPractice.AssemblyInfo.cs
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\TryCatchPractice.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\TryCatchPractice.sourcelink.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\TryCatchPractice.dll
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\refint\TryCatchPractice.dll
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\TryCatchPractice.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\TryCatchPractice.genruntimeconfig.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 7\TryCatchPractice\obj\Debug\net9.0\ref\TryCatchPractice.dll

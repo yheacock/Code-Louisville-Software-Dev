@@ -1,0 +1,15 @@
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\FileIOPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\FileIOPractice.AssemblyInfoInputs.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\FileIOPractice.AssemblyInfo.cs
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\FileIOPractice.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\FileIOPractice.sourcelink.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\bin\Debug\net9.0\FileIOPractice.exe
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\bin\Debug\net9.0\FileIOPractice.deps.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\bin\Debug\net9.0\FileIOPractice.runtimeconfig.json
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\bin\Debug\net9.0\FileIOPractice.dll
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\bin\Debug\net9.0\FileIOPractice.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\FileIOPractice.dll
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\refint\FileIOPractice.dll
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\FileIOPractice.pdb
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\FileIOPractice.genruntimeconfig.cache
+C:\Users\Sky\Desktop\Code Louisville Software Development Pathway\Week 10\FileIOPractice\obj\Debug\net9.0\ref\FileIOPractice.dll

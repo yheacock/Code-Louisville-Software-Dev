@@ -1,0 +1,29 @@
+
+{
+  "Cards": [
+    {
+      "name": "The Fool - Upright",
+      "description": "innocence, new beginnings, free spirit"
+    },
+    {
+      "name": "The Fool - Reversed",
+      "description": "recklessness, taken advantage of, inconsideration"
+    },
+    {
+      "name": "The Magician - Upright",
+      "description": "willpower, desire, creation, manifestation"
+    },
+    {
+      "name": "The Magician - Reversed",
+      "description": "trickery, illusions, out of touch"
+    },
+    {
+      "name": "The Empress - Upright",
+      "description": "motherhood, fertility, nature"
+    },
+    {
+      "name": "The Empress - Reversed",
+      "description": "dependence, smothering, emptiness, nosiness"
+    }
+  ]
+}
